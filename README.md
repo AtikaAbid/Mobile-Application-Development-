@@ -1,7 +1,7 @@
-Flutter-Development-CSL341
+**Flutter-Development-CSL341**
 This repository contains weekly lab assignments for the Mobile App Development course, focusing on Flutter and Dart. Each assignment covers essential Flutter concepts, including UI design, navigation, state management, and API integration.
 
-🛠 Development Environment
+**🛠 Development Environment**
 Operating System: Windows
 Tools Used:
 
@@ -11,9 +11,9 @@ Visual Studio Code (primary code editor)
 
 Flutter SDK (for running and building Flutter apps)
 
-📂 Project Structure
+**📂 Project Structure**
 Each lab assignment is organized in a separate folder, named according to the week number, making it easy to navigate.
 
-🚀 Setup Instructions
+**🚀 Setup Instructions**
 To run the projects, ensure you have Flutter installed and configured on your system. Follow the official Flutter installation guide if needed.
 
